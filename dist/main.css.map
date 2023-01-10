@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","mappings":"AAEA,OACE,aAHc,C","sources":["webpack://webpack-lab/./public/style.scss"],"sourcesContent":["$primary-color: #1fb6ff;\n\n.hello {\n  color: $primary-color;\n}\n"],"names":[],"sourceRoot":""}
